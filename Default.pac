@@ -1,6 +1,6 @@
 //
 // PAC by Dodieboy
-// Updated: 04/02/23 - 23:30 MST
+// Updated: 04/02/23 - 22:08 MST
 // Support MYbloXX: MYXXfm.com/donate
 //
 var MYbloXX="PROXY 127.0.0.1:8021";var ALLOW="DIRECT";var BYPASS="PROXY 8.8.8.8:53";function s(u,r){return shExpMatch(u,r)}
